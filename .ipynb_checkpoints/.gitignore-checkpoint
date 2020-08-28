@@ -1,0 +1,4 @@
+tests/*
+!tests/after_pencil.jpg
+!tests/husky.jpg
+!tests/husky_pencil.jpg
